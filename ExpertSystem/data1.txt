@@ -1,0 +1,5 @@
+CHEST:Bench Press,Dumbell Press,Incline Bench Press,Push ups
+LEGS:Squats
+BICEPS:Barbell Curls,Dumbell curls
+ELBOW:Elbow Grease
+TRICEPS:Rope Pull Down
